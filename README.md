@@ -34,8 +34,8 @@ displayed the top 10 techniques which are high risk
 The techniques whose score is greater than 8.9 are the critical threats that analysts should investigate
 
 ## Technologies
-Python
-Google Colab
+- Python
+- Google Colab
 
 ## How to run
 - Open the notebook file in Google Colab.
